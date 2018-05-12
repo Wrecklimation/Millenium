@@ -1,0 +1,799 @@
+Basic Walkthrough for Graham Nelson's Jigsaw 
+3nd and *Final* Revision
+by bonni mierzejewska
+
+This is as complete as one person (that person being me) can make it.  Many
+thanks to those who contributed feedback to improve this walkthrough.  'Tis
+the last revision.  Any typos are here to stay.
+
+CENTURY PARK
+
+You begin in Century Park on New Year's Eve, 1999.  There's a party raging
+that is giving you a headache, and you're trying to avoid it as long as 
+possible.
+
+Go east.  This is the Beer Tent, and you'll catch sight of that intriguing
+stranger in black (everyone was supposed to wear white to this party, as you
+know if you read the party ticket in your possession).  Get the sparkler from  
+the potato.  Going back west, you find that Black has left you a jigsaw 
+puzzle piece.  Take it.
+
+Go southeast to behind the Beer Tent.  Take the rucksack and search the crate 
+(examine it, too - it's stamped A4).  Take the curious device and the tagged 
+key.
+
+Going back NW, go NE to the churchyard.  Go E into the church, and E again
+into the vestry.  Look under the stool and get the pencil; look in the stool
+and get Emily's book.  Go W twice (back to the churchyard) and sketch the
+night-jar.  Then go SW to Century Park and W to Kaldecki's Monument.  Climb
+the monument and examine the lightning-conductor.  It's made of fuse.  Light
+it and there will be a boom.  Go D and enter the Monument.  You won't be
+able to exit again, but don't worry.  You don't need to.
+
+In the Monument you'll see a display case.  You can examine it and its
+contents, but you won't be able to do anything with it for a while, so you
+can ignore it for now.  Go E further into the pyramid.  You'll find a dusty
+room with a table and a clock.  (You can take a look at the room SE, too,  
+while you're here.)  Look under the table; you'll find another puzzle piece.    
+Now clean the table and you'll find a puzzle board.  (Examine it and you get  
+a nice graphic display.)  It has sixteen spaces, four rows and four columns: 
+the rows are labeled A to D and the columns are labeled 1 to 4.  Take a look 
+at the corner piece you found in Century Park and turn it until it fits at 
+A4, the upper right hand corner.  It will light up with a picture of parklands 
+strobed by laser light.  Take the centre piece and put it at C2.  If it 
+doesn't light up, pick it up again (type "get C2"), turn it, and place it at 
+C2, repeating until the piece lights up.
+
+Now, get the ormolu clock and set it to 59 ("set clock to 59").  Press C2
+(pressing A4 does nothing, because you've solved that now).  You will be
+transported.....
+
+FLAT OVER THE STREET
+
+Don't try the door.  It's locked, and you haven't got the key.  However, the
+tagged key you found in the crate fits the dresser.  Unlock the dresser and
+open it and you will find another jigsaw piece.  About this time, Black will
+come through the door.
+
+Shake hands with Black.  (I don't know why, but this gets you a point.)  Just
+let Black talk; you'll find out a lot.  When Black asks you if you understand,
+say no to get more info.  Then just wait around until Black gives you the
+sniper's rifle.  Slip off the safety ("switch rifle off") and wait some more,
+until the Archduke shows up.  Unpleasantly, what you must do then is shoot the
+duke ("shoot duke").  (So much for "Violence is seldom the answer, you know"!)
+Sketch the horses.  Then wait around a bit.  The time window will open; Black
+will take the curious device.  Watch what Black does, so you can do it later.
+The device causes the disturbed air to condense into a black sphere, into
+which Black disappears.  At this point, you can wait until the clock runs out
+or simply set the clock to 1 and zip out of there.  (If you don't get  
+transported right away, type "look" and you will be.)  You will be transported 
+to the Disc Room in the Monument.  Go NW, and you're back at the puzzle board.
+
+BACK AT THE MONUMENT
+
+There's a reason why I don't use pronouns to refer to Black.  Graham Nelson
+never does.  Black's gender is deliberately left indeterminate.  Black on some
+occasions displays definitely female behaviour and on other occasions displays
+definitely male behaviour.  This allows you to assign to Black whatever gender
+interests you.  There's a reason for that, too, which will become clear to you
+as you continue on in the game.
+
+You might also be wondering why you need to be drawing all these animals.  Well,
+since this is a walkthrough and a cheat, I'll tell you that you can't win the
+game unless you draw at least 4 animals in the course of the game.  Some of them,
+however, are a challenge to capture on paper and are a challenge in and of
+themselves.  I found it interesting to find and draw all of them.  There are
+(not much of a surprise here) exactly 16 animals to draw (just as there are 16
+puzzle pieces and 16 sections of the Land).
+
+The device Black took from you will be on the puzzle board.  In addition to
+opening the time window, it tells you what year you're in (examine it when
+you're in a chapter).  Put in your sack.
+
+Examine the piece you got.  Turn it until the flat edge is at the left and
+put it at C1.  It will light up with a picture of a cocktail glass with ice.
+From now on, what you need to do to fire up the puzzle is set the clock to
+59 (or whatever), and press the chosen location.  Press C1 to be transported.....
+
+S.S. TITANIC
+
+...to the Reading Room aboard the Titanic on the last night of its fateful
+voyage.  There's a note for you from Black and a newspaper.  Read them if
+you like.  Then go SW to the First Class Lounge, N to the Port Promenade
+(fore), W to Port Promenade (aft), S to Adjoining Staircase, and U to the
+Boat Deck.  Ignore the first aid box; you don't need it.  On the Boat Deck,
+move the chairs so you can get to Black's chair.  You'll find a book.  Get
+the book and open it, and an elegant key falls out.  Get it.  Then read the
+book and remember the new distress code: CQD.  Now go D and N,E,S back to
+the First Class Lounge.
+
+Go E to the First Class Entrance.  While you're here, go U to the Top of
+Stairs, take note that this is where the wireless room is, and go W to the
+Gymnasium.  Take the jacket you find and go E and D again.  From the First
+Class Entrance, go E to the Cabins.  Unlock Black's door with the elegant
+key, open it, and go E to enter it.  There, look under the wardrobe to get
+the Kaldecki Device (kd for short) and another note from Black.  Get the
+long barrelled key from the table and open the porthole.  A jigsaw piece will
+fall to the floor, which you can now get.  Read the note for a little extra
+info about the kd.
+
+The Kaldecki Device is useful the first time you play the game.  Turn it
+("turn kd") when you're in a chapter, and it will tell you the number of
+jigsaw pieces you have (or have left) to find there.
+
+At some point during your explorations of Black's cabin, the Stewardess will
+enter and grab a previously-unseen-to-you towel.  This is useful if you want
+to stick around to the very end for a chance to open a time window.  If not,
+you'll have other opportunities to enter a time window.  At some point before
+the endgame, you need to do so; the first time you do, you get a point.
+
+Now, go back W twice to the Lounge, N and W and S to the Stairs, wear the
+jacket and go W into the Smoking Room.  Wait around until Benjamin Guggenheim
+gives you a letter.  Once you have it, go W again into Palm Court and give
+the letter to Miss Shutes.  She'll squeak and leave, disbanding her ouija
+game.  Now you can look, and you'll see the jigsaw piece left here.  Take it. 
+
+Now you need to go back to the wireless room.  Once there, unlock the door
+with the long key, open it, and go E to enter.  There's a morse key here and
+charts with morse code on it.  Remember the CQD?  You need to key it in now.
+It's on the charts.  "Dah" is a dash, and "dit" is a dot; C is -.-. :  Q is
+--.- : D is -..  and you need to key them in succession with no pauses.  This
+solves the temporal crisis here.  The letter you gave Miss Shutes *has* to
+make it to its addressee; you just made sure that Miss Shutes would be rescued
+by the S.S. Carpathia.
+
+Now you can either escape back to the Monument by using the clock, or wait
+around for the time window.  Examine the towel; on it is the location where
+the time window opens.  It will open at the precise minute that the Titanic
+sinks.  Be there before 2:10!  AS SOON AS you see the air disturbance, press
+the button on the curious device.  The Titanic will make it's plunge for the
+bottom, but you'll survive long enough to dive into the black ball.
+
+If you decide to stay until the bitter end, turn off the alarm on the clock, so
+you don't get whisked back to the monument prematurely.  Just don't forget to
+turn it back on again if you want to leave a chapter using the clock!
+
+A note about the compass directions.  If you lay them out, you'll notice that
+Graham Nelson has the Titanic heading due east.  I find this improbable, since
+the Titanic sank just south of Newfoundland heading for New York City, but
+maybe he knows more than I do.  :->
+
+IN THE BLACK BALL
+
+Just wait around a turn or two.  You can't do anything.
+
+IN THE LAND
+
+Search around until you find the pyramid.  Very little of the Land is open at 
+this point in the game, and there's no point in trying to explore the mist.  I
+think if you enter the Land from the Titanic chapter you arrive outside the
+Chinese Pagoda.  Go in and take a look if you like.  The pyramid is E of the
+Pagoda.  This will take you to the SW corner of the pyramid; to enter the
+door, go NE.
+
+Whether you use the Land or the clock to get back to the Monument, you are
+always transported to the Disc Room.
+
+BACK AT THE MONUMENT
+
+Back at the Monument, you've got these two pieces, and edge piece and a corner
+piece.  The corner piece is A1, so turn it until it will fit there.  It will
+light up with a picture of mould in a petri dish.  Turn the edge piece to fit
+at B1.  It will light up with a picture of an invalid in bed.
+
+It doesn't matter which piece you press next.  Here we'll go to A1.
+
+CLARENCE WING
+
+Okay, first open the lower door and go D into the Asthma Lab.  Draw the
+white mice, then go N to the lab assistant's office.  Penicillium?  Mould?
+Ah!  We're here to help Fleming discover penicillin!  Get the jar.  You can't,
+but you will find a note from Black.  Go S and U, open the upper door, and
+go into Fleming's laboratory.  Look under the bench and get the petri dish
+you find there.  Get the certificate, which dislodges a jigsaw piece.  Get it.
+
+Occasionally Fleming will interrupt your nosing about; the first time he does,
+he'll leave his heavy suitcase.  Put the dish on the suitcase and push the
+suitcase E (it's too heavy for you to carry).  Wait around until Fleming comes
+along, finds the petri dish, and dashes off.  You've just solved the temporal
+crisis.  Wait a bit to take the time window if you didn't opt to take the one
+on the Titanic.
+
+BACK AT THE MONUMENT
+
+The piece you found at A1 needs to go at C3 (a racing steam locomotive).  Do 
+the take/turn/put routine on it if it doesn't light up the first time you 
+place it there.  Now, on to B1.
+
+TEMPS PERDU
+
+You're in Paris.  Ignore the door at 44 Rue Hamelin for now and go north.
+You can read the paper if you like.  Go N again, into the streets of Paris.
+Locals will go by, and the game tells you what direction they go.  Go that
+way!  After several turns of this, you will find a flask of absinthe.  Drink
+it.  You'll have an hallucination of being at a dance party, and Black will 
+be there.  Dance with Black.  This ends the hallucination, and somehow you're
+back at Avenue Kleber.  Now go south twice.  See the coin?  You can get it 
+now.  Take it and go N, open that intriguing door and go E into it.  Give the 
+coin to the bellboy and get into the lift.  Go to the top floor, get the 
+piece, and down to the Fifth Floor.  Exit the lift and go E into the 
+apartment.  Get the tea tray, which turns out to be a puzzle piece.  You have 
+to get it again, because somehow in getting it, you dropped it.  Also get the 
+madeleine (which can also be referred to as "cake").  Get back to the lift and 
+down to the street.  
+
+Go S and W to the Maison du The.  You'll see a forgotten bowl of jasmine tea.  
+Dip the madeleine in it and eat it.  You'll have yet another dreamy sequence.  
+This time you need to swing the pendulum, and you're back at the Maison du 
+The.  See that paperole that was on the clock?  It's on the floor now.  Take 
+it and go back to the fifth floor apartment.  Drop the paperole, and you've 
+solved the temporal crisis (restoring the crucial final passage to Proust's 
+last work).  There are no animals here to sketch.
+
+Hang around a turn or two if you want to take advantage of the time window.
+You'll start to notice that every time you return to the Land, there's more
+of it.  The Land is a 4x4 grid of sections...and so is the puzzle.  Every time
+you place a jigzaw piece in the correct place, the corresponding section of the
+Land coalesces from the mists.
+
+BACK AT THE MONUMENT
+
+Okay, now you've got two more pieces.  The edge piece goes to B4 (the Snow
+lands), and the centre piece goes to B2 (Kitty Hawk and the Wright Flyer).
+But for now, let's go to the train at C3.
+
+LENIN'S TRAIN
+
+You're on the train Lenin took when he returned to Russia.  Go E, wear the
+uniform, open the trunk and search it, then go back to the corridor and unlock
+the west compartment door with the little key you found.  Open it, enter, 
+there's a man tied up here!  But don't free him, or you end up getting shot
+during the October Revolution.  Search him instead, which makes him furious,
+but you need that permit.  Out to the corridor again, go S into the soldier's
+compartment.  Be polite!  Ask them for a piece of pashka.  They'll obligingly
+tell you to have it.  Take it and go N twice to Lenin's compartment.  Lenin
+himself is here, but he's not paying attention to anyone.  Go NE.  There's an
+engaging little boy here, and a piece of paper which you need.  Give the
+pashka to the boy, and he'll let you have the paper.  Take it and give it to
+Lenin, who will sign it.
+
+Now take your chit and go NW.  You'll be in line for the smoking room.  Wait
+until you get in.  You've got barely enough turns to accomplish what you need
+to do here.  Look under the bunk, open the vent, get the tray (which turns out
+to be a puzzle piece), and put it in the vent.  No, it's not gone forever.
+Go S before the other passengers kick you out.
+
+Now go NE again and N to the back end of the train.  There's a bomb here!  Get
+it and throw it.  You've just saved Lenin's life so he can start the Bolshevik
+Revolution, more's the pity.  Get the piece, too.  Now you can either go back
+S once to advantage of the time window, or use the clock to get back to the 
+Monument.  There are no animals here to sketch.
+
+At this point, I have a theory as to your gender.  Since you're able to 
+plausibly wear the British Army uniform, my guess is that your gender is
+supposed to be male, making Black female (you'll find out later in the game
+that you are definitely opposite genders).  Don't let your 1990's liberated
+sensibilities trip you up here - in 1917, it was improbably to find any female
+British Army officers!
+
+BACK AT THE MONUMENT
+
+The piece from Lenin's train goes at A2.  Let's go there.
+
+ABBEY ROAD
+
+Not much to do here.  You peer in the window and take a look at four scruffy
+young men...yes, the Beatles.  Black is here.  Wait around.  Black will start
+humming loudly, presumably to throw the Beatles off.  The only way to restore
+the quiet they need is to kiss Black.  Graham Nelson has a little romance in
+him!  Hang around for the time window or use the clock.  There are no puzzle
+pieces here, and no animals to sketch.
+
+BACK AT THE MONUMENT
+
+Where to next?  Let's do the pieces you acquired in Paris next.  Press B2 this
+time.
+
+KITTY HAWK - THE FLYER
+
+There's a paper dart here.  Pick it up and throw it a few times.  Notice what
+happens?  Now go D to the railing.  The Wright brothers are using this railing
+to get their Flyer off the ground.  Examine the crowd and draw the Yorkshire
+terrier.  Go E and get the bread and the anemometer.  Go E again into the
+machine shop.  There's a mandolin here.  Take it and play it.  Play it again.
+You're getting better!  Play it until you can play Vivaldi.  Now go E into
+the kitchen.  There's a mousetrap here!  Put some bread into the trap, wait
+until the mouse comes by.  You might have to wait a while before the mouse
+actually pauses to inspect the trap.  Immediately sketch the mouse.  Now
+go W and up into the loft bedroom.  Get the cap.  You don't need it, but now
+you can see the box of mosquito powder, which you do need.  Take it and go
+back down.  Go W to the hangar and N.  You'll be at the bottom of the hill.
+
+The reason why the Flyer keeps landing so quickly is because the windspeed 
+goes up and down in cycles (you can verify this with the anemometer), and
+they're missing the peak.  Wait there until Orville lands and play the
+mandolin for him two times in a row.  He'll like it and stick around.  Then 
+wait, and the Flyer should fly this time.  *Now* you can get near the Flyer,
+because everyone has raced off to town to telegraph the world.  Examine it;
+there's a loose square on the aileron.  Get it - it's a puzzle piece!  
+Unfortunately, you get caught in the wires and they have to extricate you, but
+they don't care at this point.  You end up on the beach.  There's a bottle
+bobbing in the waves.  Wait until it's almost to hand, and get it.  There's
+a message from Black in it.
+
+Now go back to the machine shop.  Shake the mosquito powder and examine the
+heater.  See the little holes?  Put bread in them.  If you hadn't shaken the
+mosquito powder, the mouse would come along and steal the bread.  The powder
+repels it.  The heater will explode, and you can get the lid, which turns out
+to be another puzzle piece.
+
+The time window does show up here, but not in the machine shop.  I *think* it
+opens at the beach (look around for it if you like - but be warned that it
+only exists for about 2-3 turns).  If you don't want to fool with that, take
+the clock back to the Monument.  You should have drawn two animals here.
+
+BACK AT THE MONUMENT
+
+Okay, the centre piece from the Flyer is B3 (Ghost Plane), and the creased
+edge piece from the heater is D3 (Cabbages).  But we're still working on the
+pieces we got from Paris, so let's press B4 this time.
+
+IN THE WILDERNESS
+
+Something's gone a little wrong.  You're in a white place.  Black is there,
+confused, and asks you if you can see ahead.  It doesn't matter what you do or
+say.  The whiteness resolves on the next turn into a cold whiteness, and 
+you're in the Snowlands.
+
+SNOWLANDS
+
+Sketch the snow goose, and go E until you run into the snow leopard.  Don't 
+worry; it won't hurt you.  Just draw it and head back W until you're either 
+back at Tundra with the snow goose or the Copse of Fir Trees.  If you end up 
+at the Copse, go SW into the shed, get the grain and the broom and NE again, 
+and E to the Tundra.  If you end up in the Tundra, go E to the Copse (might 
+as well examine the nest while you're there) and get the broom and the handful 
+of grain from the shed.  If you end up in the Snowy Basin, go U to the Tundra, 
+E to the Copse, etc.
+
+Now go U.  Get the coil of cable on this crag and go D twice to the Snowy 
+Basin.  Sweep the snow.  Yes, sweep the snow.  You uncover a disc around a 
+ten foot shaft.  Examine the disc and you find a ring attached to it.  Tie 
+the cable to the ring and go D.  
+
+Wonder of wonders, there's a US missile here.  You weren't in Siberia after
+all!  Examine it; you'll find a hatch.  Open the hatch and go inside.  You
+don't have much time now - the missile just started vibrating.  Press the
+green button (releases a puzzle piece from the hatch) and the blue button 
+(solves the temporal crisis).  Out, get the piece, and up.  Quickly.  If you 
+hang around you will die.  Also quickly untie the coil of cable from the ring 
+before the missile fires and the silo shuts on it; you'll need it once more.  
+
+Go up and give the handful to the goose by *dropping it on the ground* (this
+will keep her busy while you plunder her nest), then W to the Copse.  Throw 
+the cable at the nest and pull the cable *twice*.  You'll get the puzzle 
+piece; be sure to pick it up!
+
+Doing things in this order is more efficient (having been informed by email
+and after trying this order myself).  However, you probably won't be able to
+take advantage of the time window this way, since it opens shortly after the
+missile fires.  (The time window opens shortly after the temporal crisis is
+solved, regardless of whether or not you have all the puzzle pieces to be
+found.)
+
+You should have found two pieces and drawn two animals in this chapter.
+
+BACK AT THE MONUMENT
+
+Okay!  The corner piece from the nest goes at D4 (Barge), and the edge piece
+from the missile goes at C4 (Moon).  Let's do the pieces from Kitty Hawk.
+These are the hardest puzzles in the game, in my opinion.  Let's do B3 now.
+
+GHOST PLANE
+
+Time is precious here.  Go N to the cockpit.  There's a control panel with
+buttons and dials, and the engine fire light is on.  Press CUTENG/L (cut left
+engine), and the fire will go out.  But now you're running out of fuel.  Sit 
+in the navigator's chair and turn on the radio.  Immediately get up and press 
+AUT/P (autopilot).  Now scamper S twice to the Fusilage Ring, and go W to
+the west bomb bay.  Examine the hole, then examine the control there.  It says
+RES/F (reserve fuel).  Press it.  **PHEW**  Now you've got lots of time.  Go
+back to the Fusilage Ring, put everything in your sack and drop it.  Examine
+the locker and get the safe (you can't carry the safe and *anything* else).
+Take the safe E to the east bomb bay and drop it.  Now you've got some waiting
+to do.  This is a long chapter, so turn the alarm off on your clock.
+
+Get your sack and go back to the cockpit.  If you like you can go D and 
+examine and clean and read the pinup there, but you don't want to do what it
+says.  What you need to do now is lower the plane.  Push the control column
+forward until you're at about 760 feet.  Wait.  Wait some more.  When you
+get to about 20% fuel, start paying attention.  A few turns later (pay 
+attention!) forest will be rushing under you.  Press LOWER/U *now*.  This 
+lowers the landing gear.  As soon as you do that, you'll see a landing strip.  
+Type "land" to land the plane.
+
+You're very short on time now.  Immediately press REL/B.  You'll here a clank.  
+Exit.  The game will tell you that you won't be able to get back in the plane.  
+You want to exit anyway, so type exit again (or "g" to repeat your previous 
+exit command).  Immediately go E.  Examine the parachute you find here - there 
+will be a little gadget in it.  Immediately go W and put the gadget on the 
+safe.  This will unlock it.  Open it and get the folder and the shelf (which
+turns out to be a puzzle piece.)  You don't need the folder, but it makes for
+interesting reading later, so go ahead and get that.  Put all in your sack to
+expedite things later, and let yourself get captured.
+
+An alternative way to do this, I have been informed, is to put the safe in 
+your sack.  You're able to carry it this way.  (Graham Nelson could fix this
+minor bug in any subsequent release, so be sure to save before you try it.)
+If this works, all you need to do is search the parachute to get the gadget,
+put it in your sack, and unlock the safe when you're back in the Monument.
+
+If you are playing Release 1, there's another bug to be aware of - if you are
+still wearing the British Army uniform when you get captured, the Russians
+remove it, but it's still flagged as being worn.  To avoid this, remove it
+while you're still on the plane and drop it.  This is important in the Enigma
+machine chapter.
+
+Captured!  Black is here.  Black's been under interrogation and is drugged.
+Ask Black anything and you'll get the same reply.  Read the folder if you like.
+Within a few turns, a wind will blow the door open.  No time to lose!  Go N,
+get your sack, back S, and the air currents will be disturbed!  Press the
+button on the curious device and put Black's drugged body into the ball.  The 
+temporal crisis was Black's presence.   This seems to be the only chapter in
+which you *must* use the time window to leave.  If you don't, you wreck the
+course of history.  Perhaps this was the author's way of making sure you get
+the point for entering the Land?
+
+No animals to be drawn here.
+
+BACK AT THE MONUMENT
+
+The edge piece from the plane is D2 (a lady in a crinoline dress).  Now that  
+you have the gadget, you can open the case in the Monument.  Go W, put the
+gadget on the case, open it, and get the model, which turns out to be a
+puzzle piece.  Get the gadget, which has fallen on the floor.  It's not
+necessary anymore, but it's useful later.  The puzzle piece goes at D1
+(parklands with iron gates).
+
+Let's press D3 now, decidedly the most difficult and tedious puzzle in the 
+game.
+
+FIELDS OF CABBAGES/ENIGMA MACHINE
+
+You're a ghost.  You can't go anywhere but in the barn (just type "in").  In 
+the barn you find Black, busily working away at a strange typewriter.  And 
+Black doesn't seem to be able to see you.  No one can!  Examine the 
+typewriter.  Notice that three wires are not plugged into the machine.  
+Examine the paper on the floor and WRITE DOWN WHAT YOU SEE.  The two numbers 
+at the top change with every game.  The letters stay constant.  They are:
+a - g
+w - c
+v - t
+u - j
+y - r
+
+You can fly!  Take note of the wheels on top of the wardrobe.  They're NOT
+in the machine.
+
+Okay, got that?  Go back out, and fly.  You'll bump your head on something
+and be back at the Monument.  You'll notice that the picture on D3 has
+changed to a Victorian country house.  Turn off the clock alarm just in case, 
+and press D3 again.
+
+Now you're in a duck blind.  Get the spent cartridge.  If you're still wearing
+any uniform, remove it now!  Then go E into the other part of the blind.
+Look in the window and you'll see a mallard to sketch.  Get the cap and wear
+it.  Now go W and N.  Yes, you want to get caught.  When the corporal asks
+you what you are, say either "poacher" or "codebreaker."  You'll be taken off
+to Hut 31.
+
+Now things are really cooking.  You'll see a crate.  Open it.  The game will
+tell you this will break the seal irrevocably.  Open it anyway.  Remove the
+machine from the crate.  Now, there's an intercept on the wall.  You really
+don't have to take it, but you should the first time you play the game just
+to see what's going on.  Examine the machine, examine the wires.  Look in the
+crate.  There are five wheels, and the machine can only hold three.  Remember
+the two on top of the wardrobe?  Those are the ones you *don't* use.
+
+Get wheel II and put it in the machine.  Turn it until it shows the first 
+number that was on the Wehrmacht paper in the barn.  Get wheel IV and set it
+to the second number that was on the paper.  You don't know what the third
+number is, so just get wheel V and put it in the machine.
+
+Now, the wires.  When you examined them, you should have gotten basic 
+instructions.  So type "unstecker" to remove all of them.  Now, you need the
+letter combinations that were on the paper.  Type "stecker a to g" and so on
+down the list.  But you know, there were three wires unplugged from the
+machine in the barn, and you only have five wires plugged in.  You need to
+find the last two combinations.  This is tedious, so here they are: d-f, and
+p-x.  Okay, now pull the lever.  This puts the machine into decryption mode,
+and you're all set.
+
+Type "type intercept" to keep from having to type in every single letter
+every time.  If you don't get the message, you have to press the red button,
+turn wheel V, and type the intercept again.  Do this until you get the 
+message.  When you finally do (and it can take up to 10 tries, since each
+wheel has ten positions and you don't know what setting to use for wheel V), 
+you get imprisoned.  Not to worry, you still have you're possessions, and a 
+time window opens up within a few turns.
+
+BACK AT THE MONUMENT
+
+**PHEW**  The two hardest puzzles are over.  Now let's go to the moon to
+collect the last puzzle piece.  Set your clock and press C4.
+
+MOON
+
+You're in a tiny cabin in a lunar module in orbit around the moon.  Black is
+here (surprise, surprise).  Get the atlas you see here.  Examine the
+surroundings and wait until Black mutters something about Littrow, and
+look that up in the atlas ("look up littrow in atlas").  The coordinates for
+Littrow aren't what Black muttered!  Quick, show the atlas to Black, who now
+can correct the Othello's course and land in the right place.  BTW, it's a
+bit of useful info to ask Black about the astronauts.  The Apollo 17
+astronauts didn't die!  Black wants to save them too, so this time you're
+working *with* Black instead of *against* Black.  Nothing to do now until the
+Othello lands.  This is a longish chapter, so turn off the alarm on the clock.
+
+Now, go D to go outside.  Get in the lunar rover, turn the joystick on, and 
+go S.  Get the gnomon.  Now go N three times to Emory Crater and get the Green
+Clod.  Go N once to the Apollo 17, N once more to the North Massif and get the 
+sunshade.  Go E to Station 6 Rock, get out of the rover and climb the boulder.  
+A pod!  Open it with the gnomon to find Waldo and his rather terse instruction 
+sheet.  Now get Waldo and the paper and head back for the rover.  Head S to 
+Apollo 17 and W to find out why you're here.  There's a Pu238 rod here that's 
+got a crack in it.  Wrap it with the sunshade.  You can pick up the rod if you 
+have both hands free, but you can't open the reactor.  Hmm.  There's a plug on 
+the end of the cable leading out of the door of the reactor, and there's a 
+socket on Waldo.  But first, you need to do a little bit more exploring.
+
+Go W twice.  SW, you can see the genuine astronauts' rover.  Best not let
+your own rover be seen.  So get out, and go SW.  Examine their rover.  Gee, 
+I wonder what that makeshift fender is made of?  But how do you get it?  Ah!
+Waldo!  Head back for the Othello, where Black will make a fuss about Waldo.
+
+There, you need to program Waldo.  You can't do that outside, because the
+gloves make your fingers too thick.  The commands are on the paper, but you
+also need to add a bit of info: how many *times* Waldo is to execute the 
+command.  And you can only give Waldo eight commands, too.  So after much
+figuring, you find out that RTURN and LTURN make Waldo turn only 45 degrees
+each time.  Also, the crater the astronauts currently occupy is roughly 
+square, and they're in the SW corner while you come in at the NE corner. Some
+onsite experimentation, and you find that each FORWARD command advances Waldo
+only halfway along the crater's rim.  So you come up with this program:
+
+type FORWARD 2 (takes Waldo along the eastern rim to SE corner)
+type RTURN 2 (turns Waldo west)
+type FORWARD 2 (takes Waldo along the southern rim to SW corner)
+type RTURN 2 (turns Waldo north)
+type SAMPLE 1 (Waldo grabs the fender/puzzle piece)
+type FORWARD 2 (takes Waldo along the western rim to NW corner)
+type RTURN 2 (turns Waldo east)
+type FORWARD 2 (takes Waldo along northern rim and back to you)
+
+
+Head back to Tortilla Flat (SW of Shorty Crater).  Once there, you need to 
+distract the astronauts so they don't see Waldo.  Throw the green clod.  
+They'll be fascinated with it.  Drop Waldo, turn it till it's facing south 
+("turn waldo") and push the pink button.  If all goes well, you'll have Waldo 
+and the puzzle piece.
+
+The temporal crisis here is the fuel rod.  It's going to kill the astronauts,
+and you can't allow that.  You discover that you can plug the cable into Waldo
+and that if Waldo is programmed to go forward with the cable plugged in, the
+reactor door will open.  You also discover that you can't remove the cable
+from Waldo while it's taut.  
+
+You can manage to solve this with the program currently in Waldo.  Put Waldo 
+down, plug in the cable, make sure there's nothing in your hands, push the 
+button, get the fuel rod, put it in the reactor when the door opens.  Waldo
+will trundle around on the end of the cable for a bunch of turns, then 
+eventually come back so that the reactor door closes.  Pick Waldo up at this 
+point, causing it to abort its program.
+
+Getting the rod into the reactor solves the crisis.  Back at the Othello, 
+leave Waldo in the rover (so you don't end up having the game ask you which 
+button you want to press, the pink hexagonal one or the white button on the 
+curious device) and go up into the module.  Black will want to take a walk.  
+Use the time window or the clock to get back to the Monument.
+
+Obviously, there are no animals to draw here.
+
+BACK AT THE MONUMENT
+
+The piece from the moon goes at A3.  The board should be complete now!  Let's
+see, what's next....Let's go to Berlin.  Fire up the clock and press A3.
+
+BERLIN
+
+You're in East Berlin.  Depressing place.  It's 1989, the year the Wall came
+down.  You wonder why you're here...
+
+To the east is a hoarding; it just tells you what year it is.  Go W to Near
+the Brandenburg Gate, then N to the alley and N again to the river.  Get the
+rope you find there.  Then back S to the alley.  There are hares in no man's
+land.  You try to draw them, but you get stopped.  How to draw them?  This
+is risky.  Climb the fence, go SW, draw the hare, go SE, climb the fence, and
+you're (sort of) safe.  **PHEW**  Now head S, and S again to the apartment.
+Enter the apartment, go up, and get the purse you find there.  Open it and
+take the fifty Ost-mark note and the key.  Then back down to the street.  Head
+east to Checkpoint Charlie and examine the blockhouse to the south.  Black!
+You can hang around and watch what happens when Black makes the crossing.  Is
+this victory?  You don't feel like it is....
+
+You head north from here and find a Skoda.  The cyrillic-lettered key goes to
+it.  Unlock the Skoda, open it, get in, turn it on, and go north.  A man will
+ask to clean your windows; give him the fifty.  He'll toss in a note.  Uh-oh,
+you have to thwart Black this time.  Black thinks the Wall mustn't come down
+until 1991, and you know that's not right.  You're at Unter Den Linden, where
+the hoarding is; go W twice and S back to the decrepit apartment building.
+
+Leave the engine running and get out of the Skoda.  What I didn't tell you is
+that in your explorations of the apartment, you searched that masonry that's
+all over the floor and discovered a trap door leading down.  Go down now, and
+DON'T GO WEST.  Go into that little crevice SW.  Tie the rope to the telephone
+cables.  Then go up (through the manhole) and you'll see the underside of the
+car.  Tie the rope to the Skoda.  Now go back outside, get in the Skoda and 
+drive it any direction you like.  This solves the temporal crisis.  You end up back
+on the precarious balcony of the apartment, and a time window opens.  You 
+should have drawn one animal here.
+
+BACK AT THE MONUMENT
+
+Now, what haven't we done?  Fire up the clock and press D2.
+
+SUFFRAGETTES
+
+My, you've landed in London, with women demonstrating for the right to vote.
+Go down from here, you'll find Black with a petrol bomb (a "bloody great
+petrol bomb": a Molotov cocktail).  EEK!  What to do?  Head SW.  At the
+fountain, you see this nightingale, which is being difficult.  Get the
+newspaper (you need it) and put the cornbread or the madeleine in the
+fountain.  The nightingale will come down to eat it and you can sketch it.
+
+That done, go SW again.  There's a bobby here with some intriguing handcuffs
+hanging loosely in his back pocket.  Throw the newspaper at the handcuffs,
+and the cuffs will fall and the bobby will run off.  Get the cuffs and head
+back NE twice to Black.  Well, you've got to stop Black somehow.  You cuff
+Black to the fence.  So much for budding romance?  **SIGH**  Wait around at 
+the fountain for the time window or use the clock.
+
+BACK AT THE MONUMENT
+
+Just a couple more pieces left.  But you can't get into the park in D1; the
+old man just says, "Not yet, I think."  So you go to D4, the Barges.
+
+EGYPT
+
+What a revolting hotel room.  Still, it could be worse.  The door to the north
+doesn't want to open.  You have to break it.  It wasn't locked; it was jammed.
+Go N, look around, and go NE to the bathroom.  Take the soap (reluctantly).
+Back to the room.  Open the shutters and an annoying mosquito gets in.  If you
+let it bite you, you will die.  But you can catch it with the soap, and then
+you can draw it.
+
+Wait around a bit, and a hook with attached rope conveniently gets thrown on
+the window.  Now you can go down.  Get on the barge.  Ummm, Black hasn't
+forgotten about the handcuffs....
+
+Down in the barge, look around.  Examine the cans.  Examine Black.  Wait till
+Black offers you the signed paper.  Then examine the deck.  Oh my!  You save
+both your lives and destroy the paper, which solves the temporal crisis.  
+Black isn't exactly happy about it.  Open that strongbox you found in the
+cans with the gadget.  The gadget will mollify Black a bit.  Examine the 
+passport and the document in the strongbox for some info.  Black is sitting
+there scared and weary, and shivering even though it isn't cold.  Maybe Black
+has malaria or something.  The blankets aren't takable.  I like to think you
+do this out of concern, but you hug or kiss Black (either works).  Ahem.
+Next morning, you get a time window.  You need to use the device on this one,
+so Black can leave.  Black doesn't seem so lethargic upon catching sight of 
+the black ball.  You wonder just how much of the shivering was a ploy.
+
+Take the time window this time.
+
+BACK AT THE MONUMENT
+
+Just one piece left.  D1.  Fire up the clock and go there.
+
+ENDGAME
+
+You can go north through the gates this time.  On the other side, the man
+tells you a few things.  You can ask about Black and about the puzzle.  It  
+seems that what you have to do is destroy the Kaldecki Machine (which is the
+pyramid).  Ask the gatekeeper about the amulet he's wearing, then ask *for*
+the amulet.  He'll give it to you.  Head east from the Hinge.  You'll be back 
+in....
+
+THE LIVING LAND
+
+The Land is teeming with life now.  There's a pterodactyl overhead!  Don't
+be afraid.  Do draw it, though.  Go E and get the rod.  If you've played
+Colossal Cave, you'll have a notion of what to do with it.  Go N and sketch
+the apes.  Go W to the Pagoda, enter it and get the cage.  Then go E twice
+to the SE corner of the pyramid and wave the rod.  Tada!  North across the
+bridge, then east.  Pick up the grenade (do NOT go into the Toll Booth - you
+WILL die).  Ah!  A way to destroy the pyramid!  But oh dear!  You noticed 
+before that you can't get into the pyramid.  Well, you remember that there's a 
+river running *under* the pyramid.  Maybe the river can carry it in?  So you 
+head west to try this.
+
+And the pterodactyl swoops down and grabs the grenade from you.  Dratted
+creature.  You can solve this, though.  Go north to the scree fall.  Wait 
+until a large rock falls down and knocks you over.  Go S immediately, then
+N again and get all, and S again before you get killed.  Now you've got this
+lovely white rock.  Go W, drop the rock, get it again, and the pterodactyl
+will swoop down, deposit the grenade in a woodpecker's nest, and grab the
+white rock.  Great.  Now the grenade is WAY UP THERE.  You try climbing the
+tree, but that doesn't work.  You can't.  You get mad and shake the tree.  The
+woodpecker lets you do this now, because it's too busy pecking at the grenade.
+TIMBER!  The tree falls with a crash across the river, and the grenade lands 
+on the other side.  Sketch the woodpecker.
+
+One more thing you should do now is go W.  You'll startle a rabbit, which is
+particularly afraid of the black rod.  Drop the rod *here* and go E twice.  
+The rabbit runs off back W, but doesn't go all the way back because it sees 
+the rod. Follow it W, and it will scamper south across the tree.  Go retrieve 
+your rod and head south to the apes.
+
+The bunny is content here, and now you can sketch it.  The apes have your
+grenade, unfortunately.  Try as you might, you can't get it from them.  But
+they like to *ape* you, don't they?  You try throwing the rod.  They throw
+the grenade, but snatch it back before you can get it.  So you throw the rod
+at the rabbit.  Pay dirt!  The grenade goes bouncing off to the east.  Get the
+rod and head east twice after it.  
+
+Hmm.  It's in the web of a two-foot spider, and you can't get it.  Well, you
+can draw the spider, so do that.  What to do?  Well, go back and get the
+woodpecker.  You need the rod, which attracts the woodpecker to you.  You can
+put the woodpecker in the cage.  Head quickly back to the spider's web with
+the woodpecker, which is doing a number on the wicker cage.  Open the cage.
+The woodpecker flies out, and the spider makes a grab for it.  The spider
+fails, but it also shakes the grenade loose from the web.  Wonderful!  You
+get it.  
+
+Oh no!  It's stuck to your hand!  Pull the pin and you're history.  So you
+try washing the grenade.  Just what it needed - the solvents in the polluted
+river take the glue right off.  Pant pant.  
+
+There's one more thing you need to do before you destroy the pyramid.  This is
+why you have the amulet.  Visit each corner of the Land (NE, NW, SE, SW) and
+rub the amulet.  At one of the corners, the great rock balanced there will
+spin and throw out a gem for you.  It's random each game which corner gives
+you a gem, and you only get one.  There's no point visiting the remaining
+corners once you have the gem.
+
+Various portions of the land have historic connotations.  The Toll Booth is
+War.  The Pagoda is Art.  I haven't made an effort to figure out all of them,
+but your guess is as good as mine.  If you're really curious, ask on
+rec.games.int-fiction.
+
+Now, go back to NW of the pyramid, pull the pin, and throw the grenade into 
+the river.  The grenade gets washed under the pyramid and goes off.  
+Everything dissolves....
+
+TURN OF THE CENTURY
+
+You're back at Century Park...on New Year's Day, 1900!  Children are gathered
+around a table to the NW.  Go there.  There's a drawing competition.  Give
+Emily's book to Reverend Toby.  He loves the drawings, but too late to enter 
+the competition, so he gives you a consolation prize of a Teddy Bear.  I've  
+already commented that you must have 4 or more drawings in the book.  If you
+don't, go back to a previous save, and draw as many animals in the Living Land
+as you need, because you *must* have the Teddy Bear to win the game.
+
+One more thing to do.  Go SE and E.  It's not a beer tent this time, but an
+exhibition of futuristic models.  You see that intriguing figure in black...
+Go back W to Century Park, and yes, Black is there.  There's not much you can
+do.  You've foiled Black at every turn and destroyed the Kaldecki Machine,
+stranding the both of you in the past.  What can you do?  So you give Black 
+the Teddy Bear.
+
+And you've won!  Black accepts the Teddy Bear, and the two of you go off to
+live the 20th century together.  The gem you collected in the Living Land
+ensures that it's a comfortable life, too.
+
+You should have 100 points out of 100, 16/16 on the drawing game, and a nice
+gem to make your life together comfortable.
+
+Cheers!
+bonni
